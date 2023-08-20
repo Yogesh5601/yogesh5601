@@ -1,4 +1,5 @@
 ![banner.png](https://i.postimg.cc/bN5fCYyh/banner.png)
+<p align="center"><img src="[https://komarev.com/ghpvc/?username=yogesh5601&label=Profile%20views&color=0e75b6&style=flat](https://i.postimg.cc/bN5fCYyh/banner.png)" alt="yogesh5601" /></p>
 
 <h1 align="center">Hi' Everyone 👋, I'm Yogesh shrivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
