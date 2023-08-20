@@ -1,5 +1,5 @@
-![banner.png](https://i.postimg.cc/bN5fCYyh/banner.png)
-<p align="center"><img src="https://i.postimg.cc/bN5fCYyh/banner.png" /></p>
+
+<p align="center"><img src="https://i.postimg.cc/wMH8sHKs/banner.png" /></p>
 
 <h1 align="center">Hi' Everyone 👋, I'm Yogesh shrivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
