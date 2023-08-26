@@ -1,4 +1,3 @@
-
 <p align="center" widrh=""> <img src="https://postimg.cc/xcQfPZ4X" alt="yogesh5601" /> </p>
 
 <h1 align="center">Hi' Everyone 👋, I'm Yogesh shrivas</h1>
