@@ -1,4 +1,4 @@
-<p align="center" widrh=""> <img src="https://postimg.cc/xcQfPZ4X" alt="yogesh5601" /> </p>
+<p align="" widrh=""> <img src="https://postimg.cc/xcQfPZ4X" alt="yogesh5601" /> </p>
 
 <h1 align="center">Hi' Everyone 👋, I'm Yogesh shrivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh5601&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh5601" /> </p>
 
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently working on **interview**
 
 - 🌱 I’m currently learning **MERN**
 
