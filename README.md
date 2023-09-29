@@ -41,8 +41,6 @@
 
 # 💫 About Me:
 
-<hr />
-
 <p align="left">
   - 🔭 I’m working on Food Blog website <br />
   - 📚 I'm currently learning ...Node, Express, MongoDB, React<br />
@@ -50,8 +48,7 @@
   - ⚡ I like to go outside with my friends❤️😊
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
-<hr />
+# 💻 Tech Stack:
 
 <div align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -145,8 +142,7 @@
   </a>
 </div>
 
-<h3># 💻 Tech Stack:</h3>
-<hr />
+# 💻 Tech Stack:
 
 <div align="left">
   <img
