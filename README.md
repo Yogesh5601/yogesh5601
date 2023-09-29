@@ -142,7 +142,7 @@
   </a>
 </div>
 
-# 💻 Tech Stack:
+# 📊 GitHub Stats:
 
 <div align="left">
   <img
