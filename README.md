@@ -42,7 +42,7 @@
 # 💫 About Me:
 
 <p align="left">
-  - 🔭 I’m working on Food Blog website <br />
+  - 🔭 I’m working in coderixx <br />
   - 📚 I'm currently learning ...Node, Express, MongoDB, React<br />
   - 📫 How to reach me- shrivasyogesh2000@gmail.com <br />
   - ⚡ I like to go outside with my friends❤️😊
