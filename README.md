@@ -43,7 +43,7 @@
 
 <p align="left">
   - 🔭 I’m working in coderixx <br />
-  - 📚 I'm currently working on ...Node, Express, MongoDB, React Nextjs Typescript<br />
+  - 📚 I'm currently working on ...Node, Express, MongoDB, React, Nextjs Typescript<br />
   - 📫 How to reach me- shrivasyogesh2000@gmail.com <br />
   - ⚡ I like to go outside with my friends❤️😊
 </p>
