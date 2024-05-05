@@ -28,7 +28,7 @@
 </div>
 
 <h1 align="center">Hi' Everyone 👋, I'm Yogesh shrivas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack  Developer</h3>
 
 <p align="left"></p>
 
@@ -43,7 +43,7 @@
 
 <p align="left">
   - 🔭 I’m working in coderixx <br />
-  - 📚 I'm currently learning ...Node, Express, MongoDB, React<br />
+  - 📚 I'm currently working on ...Node, Express, MongoDB, React Nextjs Typescript<br />
   - 📫 How to reach me- shrivasyogesh2000@gmail.com <br />
   - ⚡ I like to go outside with my friends❤️😊
 </p>
